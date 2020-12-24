@@ -17,7 +17,7 @@ Shalow Neural Networks are simplified and didactic representations of Deep Neura
   <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/model_example.png alt="SHALOW NEURAL NETWORK" width="300">
 <br>
 </h1>
-<p></p>
+
 <p align="justify">
 The values that the different layers are transmitting are called Activation Values, which will be stored in matrices called A in this project. In this case, the Hidden Layer activations are the values stored in A1, while the Output Layer results are stored in A2.
 
@@ -29,7 +29,7 @@ Each layer is associated with parameters W and b, which will be updated accordin
   <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/Calculus.png alt="SHALOW NEURAL NETWORK" width="300">
 <br>
 </h1>
-<p></p>
+
 <p align="justify">
 Moreover, it is important to note that this project is a Shalow Neural Network model for study and knowledge of how machine learning works for simple situations, without using mechanisms and frameworks, which would have a more significant efficiency, but which is not the goal in this work. This can be seen, by the uses of various functions of calculations such as Sigmoide, Cost Function, Forward Propagation and Backward Propagation.
 
