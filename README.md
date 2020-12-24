@@ -17,7 +17,7 @@ As Redes Neurais Rasas são representações simplificadas e didáticas das Rede
   <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/model_example.png alt="SHALOW NEURAL NETWORK" width="200">
 <br>
 </h1>
-
+<p></p>
 <p align="justify">
 Os valores que as diferentes camadas estão transmitindo são denominados de Valores de Ativação, que serão armazenados em matrizes chamadas de A neste projeto. Neste caso, as ativações da Camada Oculta são os valores armazenados em A1, enquanto que os resultados da Camada de Saída estão armazenados em A2.
 
@@ -29,7 +29,8 @@ Cada uma das camadas está associada à parâmetros W e b, que serão atualizado
   <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/Calculus.png alt="SHALOW NEURAL NETWORK" width="200">
 <br>
 </h1>
-
+<p></p>
+<p align="justify">
 Moreover, it is important to note that this project is a Shalow Neural Network model for study and knowledge of how machine learning works for simple situations, without using mechanisms and frameworks, which would have a more significant efficiency, but which is not the goal in this work. This can be seen, by the uses of various functions of calculations such as Sigmoide, Cost Function, Forward Propagation and Backward Propagation.
 
 Thanks, and enjoy.
