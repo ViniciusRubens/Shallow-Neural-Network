@@ -14,7 +14,7 @@ Shalow Neural Networks are simplified and didactic representations of Deep Neura
 
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/model_example.png alt="SHALOW NEURAL NETWORK" width="200">
+  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/model_example.png alt="SHALOW NEURAL NETWORK" width="300">
 <br>
 </h1>
 <p></p>
@@ -26,7 +26,7 @@ Each layer is associated with parameters W and b, which will be updated accordin
 
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/Calculus.png alt="SHALOW NEURAL NETWORK" width="200">
+  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/Calculus.png alt="SHALOW NEURAL NETWORK" width="300">
 <br>
 </h1>
 <p></p>
