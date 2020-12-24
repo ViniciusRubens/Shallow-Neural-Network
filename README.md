@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
 <br>
   <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/SHALOW%20NEURAL%20NETWORK%20Logotipo.png alt="LOGISTIC REGRESSION" width="200">
