@@ -10,7 +10,6 @@ SHALOW NEURAL NETWORK
 My project is based on the development of a machine learning using the concepts of Shalow Neural Network. 
 
 As Redes Neurais Rasas são representações simplificadas e didáticas das Redes Neurais Profundas que são mais complexas. Neste projeto, as características de entradas que são tiradas das imagens processadas tanto para teste quanto para treino são empilhadas verticalmente na Camada de Entrada, de índice 0. Cada uma dessas características estarão ligadas por neurônios responsáveis pelos cálculos para reconhecimento de padrões, que denominaremos de Camada Oculta, de índice 1. Por fim, o resultado da nossa predição é obtida na Camada de Saída, de índice 2, que possui um único nó, podendo ser 0 ou 1.
-
 </p>
 
 <h1 align="center">
@@ -23,7 +22,6 @@ As Redes Neurais Rasas são representações simplificadas e didáticas das Rede
 Os valores que as diferentes camadas estão transmitindo são denominados de Valores de Ativação, que serão armazenados em matrizes chamadas de A neste projeto. Neste caso, as ativações da Camada Oculta são os valores armazenados em A1, enquanto que os resultados da Camada de Saída estão armazenados em A2.
 
 Cada uma das camadas está associada à parâmetros W e b, que serão atualizados de acordo com os cálculos da Forward e Backward propagation, diminuindo assim a Função de Custo, melhorando a precisão e acurácia do projeto.
-
 </P>
 
 <h1 align="center">
