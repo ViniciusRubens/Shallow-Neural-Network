@@ -1,15 +1,15 @@
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/SHALOW%20NEURAL%20NETWORK%20Logotipo.png alt="SHALOW NEURAL NETWORK" width="200">
+  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/SHALOW%20NEURAL%20NETWORK%20Logotipo.png alt="SHALLOW NEURAL NETWORK" width="200">
 <br>
 <br>
-SHALOW NEURAL NETWORK
+SHALLOW NEURAL NETWORK
 </h1>
 
 <p align="justify">
-My project is based on the development of a machine learning using the concepts of Shalow Neural Network. 
+My project is based on the development of a machine learning using the concepts of Shallow Neural Network. 
 
-Shalow Neural Networks are simplified and didactic representations of Deep Neural Networks that are more complex.In this project, the input characteristics are taken from the processed images for both testing and training, and they are vertically stacked on the Input Layer, of index 0. Each of these characteristics will be linked by neurons responsible for the calculations for pattern recognition, which we will call the Hidden Layer, of index 1. Finally, the result of our prediction is obtained on the Output Layer, of index 2, which has a single node, which can be 0 or 1.
+Shallow Neural Networks are simplified and didactic representations of Deep Neural Networks that are more complex.In this project, the input characteristics are taken from the processed images for both testing and training, and they are vertically stacked on the Input Layer, of index 0. Each of these characteristics will be linked by neurons responsible for the calculations for pattern recognition, which we will call the Hidden Layer, of index 1. Finally, the result of our prediction is obtained on the Output Layer, of index 2, which has a single node, which can be 0 or 1.
 </p>
 
 <h1 align="center">
