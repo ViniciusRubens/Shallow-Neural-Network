@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src=https://github.com/ViniciusRubens/Shalow-Neural-Network/blob/main/images/SHALOW%20NEURAL%20NETWORK%20Logotipo.png alt="SHALLOW NEURAL NETWORK" width="200">
+  <img src=https://github.com/ViniciusRubens/Shallow-Neural-Network/blob/main/images/SHALLOW%20NEURAL%20NETWORK%20Logotipo.png alt="SHALLOW NEURAL NETWORK" width="200">
 <br>
 <br>
 SHALLOW NEURAL NETWORK
